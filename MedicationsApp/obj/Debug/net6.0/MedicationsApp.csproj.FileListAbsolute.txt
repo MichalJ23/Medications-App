@@ -1,0 +1,8 @@
+C:\Users\MJ\source\repos\MedicationsApp\MedicationsApp\obj\Debug\net6.0\MedicationsApp.csproj.AssemblyReference.cache
+C:\Users\MJ\source\repos\MedicationsApp\MedicationsApp\obj\Debug\net6.0\MedicationsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MJ\source\repos\MedicationsApp\MedicationsApp\obj\Debug\net6.0\MedicationsApp.AssemblyInfoInputs.cache
+C:\Users\MJ\source\repos\MedicationsApp\MedicationsApp\obj\Debug\net6.0\MedicationsApp.AssemblyInfo.cs
+C:\Users\MJ\source\repos\MedicationsApp\MedicationsApp\obj\Debug\net6.0\MedicationsApp.csproj.CoreCompileInputs.cache
+C:\Users\MJ\source\repos\MedicationsApp\MedicationsApp\obj\Debug\net6.0\MedicationsApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MJ\source\repos\MedicationsApp\MedicationsApp\obj\Debug\net6.0\MedicationsApp.RazorAssemblyInfo.cache
+C:\Users\MJ\source\repos\MedicationsApp\MedicationsApp\obj\Debug\net6.0\MedicationsApp.RazorAssemblyInfo.cs
