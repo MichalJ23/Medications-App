@@ -10,7 +10,7 @@ namespace MedicationsApp.Controllers
 
         public IActionResult Index()
         {
-            return View(meds);
+            return View("Create");
         }
 
         public IActionResult Create()
